@@ -1,0 +1,2 @@
+# PGiPW
+Projekt na zaliczenie

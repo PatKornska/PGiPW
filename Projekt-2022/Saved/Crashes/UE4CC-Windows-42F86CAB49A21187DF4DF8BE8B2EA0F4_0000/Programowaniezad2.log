@@ -1,0 +1,730 @@
+﻿Log file open, 06/07/22 23:21:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Programowaniezad2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.748631
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.142s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 9 4900H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2022.06.07-21.21.03:251][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.07-21.21.03:251][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.06.07-21.21.03:260][  0]LogHAL: Display: Platform has ~ 16 GB [16556597248 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.07-21.21.03:260][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2022.06.07-21.21.03:260][  0]LogInit: Going up to parent DeviceProfile []
+[2022.06.07-21.21.03:260][  0]LogInit: Computer: LAPTOP-N4IVOJU7
+[2022.06.07-21.21.03:260][  0]LogInit: User: alber
+[2022.06.07-21.21.03:260][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.06.07-21.21.03:260][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.07-21.21.03:261][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2022.06.07-21.21.03:261][  0]LogMemory: Platform Memory Stats for Windows
+[2022.06.07-21.21.03:261][  0]LogMemory: Process Physical Memory: 103.43 MB used, 103.43 MB peak
+[2022.06.07-21.21.03:261][  0]LogMemory: Process Virtual Memory: 91.50 MB used, 91.50 MB peak
+[2022.06.07-21.21.03:261][  0]LogMemory: Physical Memory: 9712.31 MB used,  6077.29 MB free, 15789.60 MB total
+[2022.06.07-21.21.03:261][  0]LogMemory: Virtual Memory: 4662.26 MB used,  6077.29 MB free, 134217728.00 MB total
+[2022.06.07-21.21.03:317][  0]LogInit: Using OS detected language (pl-PL).
+[2022.06.07-21.21.03:317][  0]LogInit: Using OS detected locale (pl-PL).
+[2022.06.07-21.21.03:318][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2022.06.07-21.21.03:322][  0]LogStreaming: Display: Took  0.004s to InitEngineTextLocalization.
+[2022.06.07-21.21.03:322][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.07-21.21.03:362][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.07-21.21.03:362][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.07-21.21.03:786][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.07-21.21.03:786][  0]LogD3D11RHI: D3D11 adapters:
+[2022.06.07-21.21.03:915][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2022.06.07-21.21.03:915][  0]LogD3D11RHI:       5980/0/7894 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.06.07-21.21.03:952][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2022.06.07-21.21.03:952][  0]LogD3D11RHI:       496/0/7894 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2022.06.07-21.21.03:956][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.06.07-21.21.03:956][  0]LogD3D11RHI:       0/0/7894 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.06.07-21.21.03:956][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.06.07-21.21.03:964][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.06.07-21.21.03:965][  0]LogD3D11RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.07-21.21.03:965][  0]LogWindows: EnumDisplayDevices:
+[2022.06.07-21.21.03:965][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2022.06.07-21.21.03:965][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.06.07-21.21.03:965][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.06.07-21.21.03:966][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.06.07-21.21.03:966][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.06.07-21.21.03:966][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.06.07-21.21.03:966][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.06.07-21.21.03:967][  0]LogWindows:    7. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.06.07-21.21.03:967][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.06.07-21.21.03:967][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2022.06.07-21.21.03:967][  0]LogD3D11RHI:   Driver Version: 511.69 (internal:30.0.15.1169, unified:511.69)
+[2022.06.07-21.21.03:967][  0]LogD3D11RHI:      Driver Date: 2-1-2022
+[2022.06.07-21.21.03:967][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2022.06.07-21.21.04:033][  0]LogD3D11RHI: Async texture creation enabled
+[2022.06.07-21.21.04:047][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.06.07-21.21.04:049][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (D:/Pulpit/Nowy folder/Programowaniezad2/Intermediate/Shaders/WorkingDirectory/25288/).
+[2022.06.07-21.21.04:049][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alber/AppData/Local/Temp/UnrealShaderWorkingDir/FCD7B96B4FD03361D9DF729ADFABB7FB/'.
+[2022.06.07-21.21.04:374][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2022.06.07-21.21.04:389][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2022.06.07-21.21.04:403][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2022.06.07-21.21.04:416][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2022.06.07-21.21.04:433][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2022.06.07-21.21.04:448][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2022.06.07-21.21.04:463][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2022.06.07-21.21.04:476][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2022.06.07-21.21.04:484][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2022.06.07-21.21.04:559][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.07-21.21.04:559][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.07-21.21.04:559][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.07-21.21.04:559][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.07-21.21.04:559][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.07-21.21.04:559][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.07-21.21.04:559][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.07-21.21.04:559][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.07-21.21.04:559][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.07-21.21.04:559][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.07-21.21.04:559][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.07-21.21.04:559][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.07-21.21.04:559][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.07-21.21.04:559][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.07-21.21.04:559][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.07-21.21.04:559][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.07-21.21.04:559][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.07-21.21.04:559][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2022.06.07-21.21.04:563][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2022.06.07-21.21.04:629][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2022.06.07-21.21.04:629][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2022.06.07-21.21.04:652][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2022.06.07-21.21.04:652][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2022.06.07-21.21.04:666][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2022.06.07-21.21.04:680][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2022.06.07-21.21.04:693][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2022.06.07-21.21.04:709][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2022.06.07-21.21.04:719][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2022.06.07-21.21.04:719][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.06.07-21.21.04:819][  0]LogXGEController: Cleaning working directory: C:/Users/alber/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.06.07-21.21.04:819][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.06.07-21.21.04:819][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.06.07-21.21.04:819][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.06.07-21.21.05:600][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.06.07-21.21.05:742][  0]LogDerivedDataCache: Loaded boot cache 0.14s 71MB C:/Users/alber/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2022.06.07-21.21.05:742][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alber/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2022.06.07-21.21.05:742][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Pulpit/Nowy folder/Programowaniezad2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.07-21.21.05:742][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.06.07-21.21.05:742][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Pulpit/Nowy folder/Programowaniezad2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.07-21.21.05:742][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.06.07-21.21.05:758][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.06.07-21.21.05:772][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alber/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.07-21.21.05:772][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.07-21.21.05:772][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.06.07-21.21.05:787][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.06.07-21.21.05:789][  0]LogSlate: Using FreeType 2.6.0
+[2022.06.07-21.21.05:791][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.07-21.21.05:913][  0]LogAssetRegistry: FAssetRegistry took 0.0259 seconds to start up
+[2022.06.07-21.21.06:183][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.07-21.21.06:309][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2022.06.07-21.21.06:315][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2022.06.07-21.21.06:315][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.07-21.21.06:315][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.07-21.21.06:315][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2022.06.07-21.21.06:330][  0]LogNetVersion: Programowaniezad2 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4007895246)
+[2022.06.07-21.21.06:800][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.097489 seconds
+[2022.06.07-21.21.06:806][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2022.06.07-21.21.06:807][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2022.06.07-21.21.06:807][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.07-21.21.08:305][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.07-21.21.08:320][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.07-21.21.08:506][  0]SourceControl: Source control is disabled
+[2022.06.07-21.21.08:506][  0]SourceControl: Source control is disabled
+[2022.06.07-21.21.08:509][  0]SourceControl: Source control is disabled
+[2022.06.07-21.21.08:512][  0]SourceControl: Source control is disabled
+[2022.06.07-21.21.08:755][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.07-21.21.08:828][  0]LogOcInput: OculusInput pre-init called
+[2022.06.07-21.21.08:895][  0]LogEngine: Initializing Engine...
+[2022.06.07-21.21.08:896][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.07-21.21.08:897][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2022.06.07-21.21.08:897][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.06.07-21.21.08:897][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2022.06.07-21.21.08:897][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.06.07-21.21.09:080][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.07-21.21.09:097][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.07-21.21.09:109][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.06.07-21.21.09:310][  0]LogInit: FAudioDevice initialized.
+[2022.06.07-21.21.09:310][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.07-21.21.09:359][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/alber/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2022.06.07-21.21.09:364][  0]LogInit: Texture streaming: Enabled
+[2022.06.07-21.21.09:389][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.07-21.21.09:410][  0]LogInit: Transaction tracking system initialized
+[2022.06.07-21.21.09:443][  0]BlueprintLog: New page: Editor Load
+[2022.06.07-21.21.09:564][  0]LocalizationService: Localization service is disabled
+[2022.06.07-21.21.09:883][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.06.07-21.21.09:883][  0]LogCook: Display: Mobile HDR setting 1
+[2022.06.07-21.21.09:883][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2022.06.07-21.21.09:883][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2022.06.07-21.21.09:883][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2022.06.07-21.21.09:883][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2022.06.07-21.21.09:884][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2022.06.07-21.21.10:087][  0]LogFileCache: Scanning file cache for directory 'D:/Pulpit/Nowy folder/Programowaniezad2/Content/' took 0.02s
+[2022.06.07-21.21.10:087][  0]SourceControl: Source control is disabled
+[2022.06.07-21.21.10:087][  0]Cmd: MAP LOAD FILE="D:/Pulpit/Nowy folder/Programowaniezad2/Content/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.07-21.21.10:088][  0]LightingResults: New page: Lighting Build
+[2022.06.07-21.21.10:090][  0]MapCheck: New page: Map Check
+[2022.06.07-21.21.10:090][  0]LightingResults: New page: Lighting Build
+[2022.06.07-21.21.10:286][  0]LogAIModule: Creating AISystem for world NewWorld
+[2022.06.07-21.21.10:295][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.07-21.21.10:314][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.07-21.21.10:415][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 101,295ms to complete.
+[2022.06.07-21.21.10:415][  0]LogFileHelpers: Loading map 'NewWorld' took 0.328
+[2022.06.07-21.21.10:519][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.07-21.21.10:526][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.07-21.21.10:534][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.07-21.21.10:541][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.07-21.21.10:549][  0]LogCollectionManager: Loaded 0 collections in 0.001486 seconds
+[2022.06.07-21.21.10:593][  0]LogFileCache: Scanning file cache for directory 'D:/Pulpit/Nowy folder/Programowaniezad2/Saved/Collections/' took 0.01s
+[2022.06.07-21.21.10:593][  0]LogFileCache: Scanning file cache for directory 'D:/Pulpit/Nowy folder/Programowaniezad2/Content/Developers/alber/Collections/' took 0.01s
+[2022.06.07-21.21.10:593][  0]LogFileCache: Scanning file cache for directory 'D:/Pulpit/Nowy folder/Programowaniezad2/Content/Collections/' took 0.01s
+[2022.06.07-21.21.10:593][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2022.06.07-21.21.10:601][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2572 classes and 603 folders.
+[2022.06.07-21.21.10:609][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.06.07-21.21.10:730][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.06.07-21.21.10:739][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.06.07-21.21.11:649][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.06.07-21.21.11:677][  0]LogSlate: Took 0.001350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.07-21.21.11:681][  0]LogSlate: Took 0.001405 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.07-21.21.11:687][  0]LogSlate: Took 0.001026 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.07-21.21.11:791][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Programowaniezad2
+[2022.06.07-21.21.11:791][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2022.06.07-21.21.11:791][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2022.06.07-21.21.11:791][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2022.06.07-21.21.11:791][  0]LogTemp: BranchPath = LAPTOP-N4IVOJU7/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = LAPTOP-N4IVOJU7/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2022.06.07-21.21.11:791][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\alber\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2022.06.07-21.21.11:791][  0]LogRenderer: Reallocating scene render targets to support 808x460 Format 10 NumSamples 1 (Frame:1).
+[2022.06.07-21.21.11:858][  0]LogSlate: Took 0.001566 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.07-21.21.11:962][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.06.07-21.21.11:962][  0]LogLoad: (Engine Initialization) Total time: 12.25 seconds
+[2022.06.07-21.21.11:962][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.07-21.21.12:004][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.07-21.21.12:033][  1]LogAssetRegistry: Asset discovery search completed in 6.1425 seconds
+[2022.06.07-21.21.12:035][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2022.06.07-21.21.12:035][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000112 seconds (updated 0 objects)
+[2022.06.07-21.21.14:602][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.06.07-21.21.54:399][542]LogSlate: Took 0.000672 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.BPCrystal_C' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.BPCrystal:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.BPCrystal:SetLocation.K2Node_FunctionEntry_0' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.BPCrystal:SetLerpVariables.K2Node_FunctionEntry_0' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.BPCrystal:SetScale.K2Node_FunctionEntry_0' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.BPCrystal:IsPlayer.K2Node_Tunnel_0' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.BPCrystal:IsPlayer.K2Node_Tunnel_1' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.BPCrystal:SetIntensity.K2Node_FunctionEntry_0' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.SKEL_BPCrystal_C:BndEvt__Sphere_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.SKEL_BPCrystal_C:LerpStartIntensity' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.SKEL_BPCrystal_C:LerpStartScale' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.SKEL_BPCrystal_C:LerpStartLocation' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.SKEL_BPCrystal_C:Crystalmovement' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.SKEL_BPCrystal_C:DefaultSceneRoot' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.SKEL_BPCrystal_C:Upper' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.SKEL_BPCrystal_C:Bottom' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.SKEL_BPCrystal_C:Sphere' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.SKEL_BPCrystal_C:PointLight' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.SKEL_BPCrystal_C:UserConstructionScript' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.SKEL_BPCrystal_C:SetLocation' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.SKEL_BPCrystal_C:SetScale' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.SKEL_BPCrystal_C:SetIntensity' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.SKEL_BPCrystal_C' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.BPCrystal_C:LerpStartIntensity' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:436][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.BPCrystal_C:LerpStartScale' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:437][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.BPCrystal_C:LerpStartLocation' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:437][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.BPCrystal_C:Crystalmovement' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:437][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.BPCrystal_C:DefaultSceneRoot' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:437][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.BPCrystal_C:Upper' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:437][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.BPCrystal_C:Bottom' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:437][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.BPCrystal_C:Sphere' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:437][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.BPCrystal_C:PointLight' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:437][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.BPCrystal_C:UserConstructionScript' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:437][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.BPCrystal_C:SetLocation' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:437][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.BPCrystal_C:SetScale' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:437][542]LogMetaData: Removing '/Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.BPCrystal_C:SetIntensity' ref from Metadata '/Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.PackageMetaData'
+[2022.06.07-21.21.54:514][542]LogSavePackage: Moving 'D:/Pulpit/Nowy folder/Programowaniezad2/Saved/BPCrystal3C66CEAF44422A260036CE832003D3DB.tmp' to 'D:/Pulpit/Nowy folder/Programowaniezad2/Content/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.uasset'
+[2022.06.07-21.21.54:528][542]LogSavePackage: Moving 'D:/Pulpit/Nowy folder/Programowaniezad2/Saved/BPCrystalE50DECF849DDDD6B15E869A79956CA9C.tmp' to 'D:/Pulpit/Nowy folder/Programowaniezad2/Content/NewFolder/Blueprints/Actor/Collectables/BPCrystal.uasset'
+[2022.06.07-21.22.03:226][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFolder/Blueprints/Actor/BPCrystal" FILE="D:/Pulpit/Nowy folder/Programowaniezad2/Content/NewFolder/Blueprints/Actor/BPCrystal.uasset" SILENT=true
+[2022.06.07-21.22.03:232][ 59]LogSavePackage: Moving 'D:/Pulpit/Nowy folder/Programowaniezad2/Saved/BPCrystalD6F9A35D476B4C9FD8B28DB50BB29CE4.tmp' to 'D:/Pulpit/Nowy folder/Programowaniezad2/Content/NewFolder/Blueprints/Actor/BPCrystal.uasset'
+[2022.06.07-21.22.03:242][ 59]LogSavePackage: Moving 'D:/Pulpit/Nowy folder/Programowaniezad2/Saved/BPCrystal696465694CD5C6DB5EF6E5BCF32C2457.tmp' to 'D:/Pulpit/Nowy folder/Programowaniezad2/Content/NewFolder/Blueprints/Actor/Collectables/BPCrystal.uasset'
+[2022.06.07-21.22.05:454][190]LogSlate: Window 'Failed Renames' being destroyed
+[2022.06.07-21.22.13:937][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFolder/Blueprints/Actor/BPCrystal" FILE="D:/Pulpit/Nowy folder/Programowaniezad2/Content/NewFolder/Blueprints/Actor/BPCrystal.uasset" SILENT=true
+[2022.06.07-21.22.13:942][693]LogSavePackage: Moving 'D:/Pulpit/Nowy folder/Programowaniezad2/Saved/BPCrystal88096D4A4F22442E836C3AADA5B94937.tmp' to 'D:/Pulpit/Nowy folder/Programowaniezad2/Content/NewFolder/Blueprints/Actor/BPCrystal.uasset'
+[2022.06.07-21.22.13:951][693]LogSavePackage: Moving 'D:/Pulpit/Nowy folder/Programowaniezad2/Saved/BPCrystalBE8CEB1D4D191C320ECE04B15E17D95C.tmp' to 'D:/Pulpit/Nowy folder/Programowaniezad2/Content/NewFolder/Blueprints/Actor/Collectables/BPCrystal.uasset'
+[2022.06.07-21.22.18:873][987]LogSlate: Window 'Failed Renames' being destroyed
+[2022.06.07-21.22.22:043][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewFolder/Blueprints/Actor/BPCrystal" FILE="D:/Pulpit/Nowy folder/Programowaniezad2/Content/NewFolder/Blueprints/Actor/BPCrystal.uasset" SILENT=true
+[2022.06.07-21.22.22:049][175]LogSavePackage: Moving 'D:/Pulpit/Nowy folder/Programowaniezad2/Saved/BPCrystal35EB1AE84537C71B543E95ABFD26A94A.tmp' to 'D:/Pulpit/Nowy folder/Programowaniezad2/Content/NewFolder/Blueprints/Actor/BPCrystal.uasset'
+[2022.06.07-21.22.22:060][175]LogSavePackage: Moving 'D:/Pulpit/Nowy folder/Programowaniezad2/Saved/BPCrystalA1616612405DA672182291BB790E2F59.tmp' to 'D:/Pulpit/Nowy folder/Programowaniezad2/Content/NewFolder/Blueprints/Actor/Collectables/BPCrystal.uasset'
+[2022.06.07-21.22.23:666][270]LogSlate: Window 'Failed Renames' being destroyed
+[2022.06.07-21.22.29:012][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Metal_Copper.
+[2022.06.07-21.22.29:017][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Metal_Gold_N.
+[2022.06.07-21.22.29:021][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Metal_Copper_D.
+[2022.06.07-21.22.29:022][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_MacroVariation.
+[2022.06.07-21.22.29:027][589]DataValidation: There is no data validation for /Game/NewFolder/Meshes/Cannon.
+[2022.06.07-21.22.29:030][589]DataValidation: There is no data validation for /Game/NewFolder/Meshes/Cannon_Base.
+[2022.06.07-21.22.29:033][589]DataValidation: There is no data validation for /Game/NewFolder/Blueprints/Material/MatCrystal01.
+[2022.06.07-21.22.29:039][589]DataValidation: There is no data validation for /Game/NewFolder/Blueprints/Material/MatCrystal01_Inst.
+[2022.06.07-21.22.29:042][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Basic_Wall.
+[2022.06.07-21.22.29:046][589]DataValidation: There is no data validation for /Game/StarterContent/Shapes/Shape_QuadPyramid.
+[2022.06.07-21.22.29:054][589]DataValidation: There is no data validation for /Game/NewFolder/Blueprints/Actor/BPCrystal.
+[2022.06.07-21.22.29:057][589]DataValidation: There is no data validation for /Game/NewFolder/Blueprints/Actor/BPCrystal.
+[2022.06.07-21.22.29:059][589]DataValidation: There is no data validation for /Game/NewFolder/Blueprints/Actor/BPCrystal.
+[2022.06.07-21.22.29:065][589]DataValidation: There is no data validation for /Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.
+[2022.06.07-21.22.29:068][589]DataValidation: There is no data validation for /Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.
+[2022.06.07-21.22.29:071][589]DataValidation: There is no data validation for /Game/NewFolder/Blueprints/Actor/Collectables/BPCrystal.
+[2022.06.07-21.22.29:073][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Metal_Gold_D.
+[2022.06.07-21.22.29:074][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Metal_Gold.
+[2022.06.07-21.22.29:080][589]DataValidation: There is no data validation for /Game/NewWorld_BuiltData.
+[2022.06.07-21.22.29:082][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Metal_Aluminum_D.
+[2022.06.07-21.22.29:086][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Metal_Burnished_Steel.
+[2022.06.07-21.22.29:089][589]DataValidation: There is no data validation for /Game/NewFolder/Meshes/Walls.
+[2022.06.07-21.22.29:092][589]DataValidation: There is no data validation for /Game/NewWorld.
+[2022.06.07-21.22.29:112][589]LogAIModule: Creating AISystem for world NewWorldCP
+[2022.06.07-21.22.29:116][589]DataValidation: There is no data validation for /Game/NewWorldCP.
+[2022.06.07-21.22.29:120][589]DataValidation: There is no data validation for /Game/NewFolder/Blueprints/Actor/BP_Reset.
+[2022.06.07-21.22.29:121][589]DataValidation: There is no data validation for /Game/NewFolder/Blueprints/Actor/BP_Reset.
+[2022.06.07-21.22.29:123][589]DataValidation: There is no data validation for /Game/NewFolder/Blueprints/Actor/BP_Reset.
+[2022.06.07-21.22.29:135][589]DataValidation: There is no data validation for /Game/StarterContent/Architecture/Floor_400x400.
+[2022.06.07-21.22.29:141][589]DataValidation: There is no data validation for /Game/StarterContent/Architecture/Pillar_50x500.
+[2022.06.07-21.22.29:156][589]DataValidation: There is no data validation for /Game/StarterContent/Architecture/SM_AssetPlatform.
+[2022.06.07-21.22.29:161][589]DataValidation: There is no data validation for /Game/StarterContent/Architecture/Wall_400x200.
+[2022.06.07-21.22.29:167][589]DataValidation: There is no data validation for /Game/StarterContent/Architecture/Wall_400x300.
+[2022.06.07-21.22.29:173][589]DataValidation: There is no data validation for /Game/StarterContent/Architecture/Wall_400x400.
+[2022.06.07-21.22.29:179][589]DataValidation: There is no data validation for /Game/StarterContent/Architecture/Wall_500x500.
+[2022.06.07-21.22.29:185][589]DataValidation: There is no data validation for /Game/StarterContent/Architecture/Wall_Door_400x300.
+[2022.06.07-21.22.29:190][589]DataValidation: There is no data validation for /Game/StarterContent/Architecture/Wall_Door_400x400.
+[2022.06.07-21.22.29:195][589]DataValidation: There is no data validation for /Game/StarterContent/Architecture/Wall_Window_400x300.
+[2022.06.07-21.22.29:200][589]DataValidation: There is no data validation for /Game/StarterContent/Architecture/Wall_Window_400x400.
+[2022.06.07-21.22.29:205][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Collapse01.
+[2022.06.07-21.22.29:210][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Collapse02.
+[2022.06.07-21.22.29:214][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Collapse_Cue.
+[2022.06.07-21.22.29:220][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Explosion01.
+[2022.06.07-21.22.29:225][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Explosion02.
+[2022.06.07-21.22.29:229][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Explosion_Cue.
+[2022.06.07-21.22.29:235][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Fire01.
+[2022.06.07-21.22.29:238][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Fire01_Cue.
+[2022.06.07-21.22.29:246][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Fire_Sparks01.
+[2022.06.07-21.22.29:249][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Fire_Sparks01_Cue.
+[2022.06.07-21.22.29:254][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Light01.
+[2022.06.07-21.22.29:258][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Light01_Cue.
+[2022.06.07-21.22.29:263][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Light02.
+[2022.06.07-21.22.29:267][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Light02_Cue.
+[2022.06.07-21.22.29:272][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Smoke01.
+[2022.06.07-21.22.29:276][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Smoke01_Cue.
+[2022.06.07-21.22.29:306][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Starter_Background_Cue.
+[2022.06.07-21.22.29:308][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Starter_Birds01.
+[2022.06.07-21.22.29:324][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Starter_Music01.
+[2022.06.07-21.22.29:328][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Starter_Music_Cue.
+[2022.06.07-21.22.29:329][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Starter_Wind05.
+[2022.06.07-21.22.29:331][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Starter_Wind06.
+[2022.06.07-21.22.29:341][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Steam01.
+[2022.06.07-21.22.29:345][589]DataValidation: There is no data validation for /Game/StarterContent/Audio/Steam01_Cue.
+[2022.06.07-21.22.29:804][589]DataValidation: There is no data validation for /Game/StarterContent/Blueprints/Assets/FogBrightnessLUT.
+[2022.06.07-21.22.29:811][589]DataValidation: There is no data validation for /Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows.
+[2022.06.07-21.22.29:814][589]DataValidation: There is no data validation for /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.
+[2022.06.07-21.22.29:816][589]DataValidation: There is no data validation for /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.
+[2022.06.07-21.22.29:821][589]DataValidation: There is no data validation for /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.
+[2022.06.07-21.22.29:823][589]DataValidation: There is no data validation for /Game/StarterContent/Blueprints/Assets/Skybox.
+[2022.06.07-21.22.29:824][589]DataValidation: There is no data validation for /Game/StarterContent/Blueprints/Assets/SM_Arrows.
+[2022.06.07-21.22.29:826][589]DataValidation: There is no data validation for /Game/StarterContent/Blueprints/Assets/SunlightColorLUT.
+[2022.06.07-21.22.29:827][589]DataValidation: There is no data validation for /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.
+[2022.06.07-21.22.29:917][589]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2022.06.07-21.22.29:925][589]DataValidation: There is no data validation for /Game/StarterContent/Maps/Advanced_Lighting.
+[2022.06.07-21.22.29:927][589]DataValidation: There is no data validation for /Game/StarterContent/Maps/Advanced_Lighting_BuiltData.
+[2022.06.07-21.22.30:183][589]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.06.07-21.22.30:189][589]DataValidation: There is no data validation for /Game/StarterContent/Maps/Minimal_Default.
+[2022.06.07-21.22.30:191][589]DataValidation: There is no data validation for /Game/StarterContent/Maps/Minimal_Default_BuiltData.
+[2022.06.07-21.22.31:019][589]LogAIModule: Creating AISystem for world StarterMap
+[2022.06.07-21.22.31:038][589]DataValidation: There is no data validation for /Game/StarterContent/Maps/StarterMap.
+[2022.06.07-21.22.31:040][589]DataValidation: There is no data validation for /Game/StarterContent/Maps/StarterMap_BuiltData.
+[2022.06.07-21.22.31:041][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_AssetPlatform.
+[2022.06.07-21.22.31:042][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Basic_Floor.
+[2022.06.07-21.22.31:044][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Brick_Clay_Beveled.
+[2022.06.07-21.22.31:045][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Brick_Clay_New.
+[2022.06.07-21.22.31:047][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Brick_Clay_Old.
+[2022.06.07-21.22.31:048][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Brick_Cut_Stone.
+[2022.06.07-21.22.31:050][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Brick_Hewn_Stone.
+[2022.06.07-21.22.31:055][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Ceramic_Tile_Checker.
+[2022.06.07-21.22.31:056][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_CobbleStone_Pebble.
+[2022.06.07-21.22.31:058][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_CobbleStone_Rough.
+[2022.06.07-21.22.31:059][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_CobbleStone_Smooth.
+[2022.06.07-21.22.31:069][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_ColorGrid_LowSpec.
+[2022.06.07-21.22.31:071][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Concrete_Grime.
+[2022.06.07-21.22.31:072][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Concrete_Panels.
+[2022.06.07-21.22.31:074][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Concrete_Poured.
+[2022.06.07-21.22.31:075][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Concrete_Tiles.
+[2022.06.07-21.22.31:077][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Glass.
+[2022.06.07-21.22.31:078][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Ground_Grass.
+[2022.06.07-21.22.31:080][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Ground_Gravel.
+[2022.06.07-21.22.31:081][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Ground_Moss.
+[2022.06.07-21.22.31:082][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Metal_Brushed_Nickel.
+[2022.06.07-21.22.31:084][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Metal_Chrome.
+[2022.06.07-21.22.31:085][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Metal_Rust.
+[2022.06.07-21.22.31:087][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Metal_Steel.
+[2022.06.07-21.22.31:088][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Rock_Basalt.
+[2022.06.07-21.22.31:089][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Rock_Marble_Polished.
+[2022.06.07-21.22.31:091][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Rock_Sandstone.
+[2022.06.07-21.22.31:092][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Rock_Slate.
+[2022.06.07-21.22.31:093][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Tech_Checker_Dot.
+[2022.06.07-21.22.31:095][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Tech_Hex_Tile.
+[2022.06.07-21.22.31:096][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.
+[2022.06.07-21.22.31:098][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Tech_Panel.
+[2022.06.07-21.22.31:099][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Water_Lake.
+[2022.06.07-21.22.31:100][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Water_Ocean.
+[2022.06.07-21.22.31:102][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.
+[2022.06.07-21.22.31:103][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.
+[2022.06.07-21.22.31:104][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Wood_Oak.
+[2022.06.07-21.22.31:106][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Wood_Pine.
+[2022.06.07-21.22.31:107][589]DataValidation: There is no data validation for /Game/StarterContent/Materials/M_Wood_Walnut.
+[2022.06.07-21.22.31:109][589]DataValidation: There is no data validation for /Game/StarterContent/Particles/P_Ambient_Dust.
+[2022.06.07-21.22.31:110][589]DataValidation: There is no data validation for /Game/StarterContent/Particles/P_Explosion.
+[2022.06.07-21.22.31:112][589]DataValidation: There is no data validation for /Game/StarterContent/Particles/P_Fire.
+[2022.06.07-21.22.31:113][589]DataValidation: There is no data validation for /Game/StarterContent/Particles/P_Smoke.
+[2022.06.07-21.22.31:114][589]DataValidation: There is no data validation for /Game/StarterContent/Particles/P_Sparks.
+[2022.06.07-21.22.31:116][589]DataValidation: There is no data validation for /Game/StarterContent/Particles/P_Steam_Lit.
+[2022.06.07-21.22.31:117][589]DataValidation: There is no data validation for /Game/StarterContent/Particles/Materials/M_Burst.
+[2022.06.07-21.22.31:119][589]DataValidation: There is no data validation for /Game/StarterContent/Particles/Materials/M_Dust_Particle.
+[2022.06.07-21.22.31:120][589]DataValidation: There is no data validation for /Game/StarterContent/Particles/Materials/M_explosion_subUV.
+[2022.06.07-21.22.31:121][589]DataValidation: There is no data validation for /Game/StarterContent/Particles/Materials/M_Fire_SubUV.
+[2022.06.07-21.22.31:127][589]DataValidation: There is no data validation for /Game/StarterContent/Particles/Materials/m_flare_01.
+[2022.06.07-21.22.31:128][589]DataValidation: There is no data validation for /Game/StarterContent/Particles/Materials/M_Heat_Distortion.
+[2022.06.07-21.22.31:130][589]DataValidation: There is no data validation for /Game/StarterContent/Particles/Materials/M_Radial_Gradient.
+[2022.06.07-21.22.31:131][589]DataValidation: There is no data validation for /Game/StarterContent/Particles/Materials/M_radial_ramp.
+[2022.06.07-21.22.31:132][589]DataValidation: There is no data validation for /Game/StarterContent/Particles/Materials/M_smoke_subUV.
+[2022.06.07-21.22.31:134][589]DataValidation: There is no data validation for /Game/StarterContent/Particles/Materials/M_Spark.
+[2022.06.07-21.22.31:135][589]DataValidation: There is no data validation for /Game/StarterContent/Props/MaterialSphere.
+[2022.06.07-21.22.31:158][589]DataValidation: There is no data validation for /Game/StarterContent/Props/SM_Bush.
+[2022.06.07-21.22.31:160][589]DataValidation: There is no data validation for /Game/StarterContent/Props/SM_Chair.
+[2022.06.07-21.22.31:161][589]DataValidation: There is no data validation for /Game/StarterContent/Props/SM_CornerFrame.
+[2022.06.07-21.22.31:169][589]DataValidation: There is no data validation for /Game/StarterContent/Props/SM_Couch.
+[2022.06.07-21.22.31:198][589]DataValidation: There is no data validation for /Game/StarterContent/Props/SM_Door.
+[2022.06.07-21.22.31:199][589]DataValidation: There is no data validation for /Game/StarterContent/Props/SM_DoorFrame.
+[2022.06.07-21.22.31:201][589]DataValidation: There is no data validation for /Game/StarterContent/Props/SM_GlassWindow.
+[2022.06.07-21.22.31:202][589]DataValidation: There is no data validation for /Game/StarterContent/Props/SM_Lamp_Ceiling.
+[2022.06.07-21.22.31:204][589]DataValidation: There is no data validation for /Game/StarterContent/Props/SM_Lamp_Wall.
+[2022.06.07-21.22.31:238][589]DataValidation: There is no data validation for /Game/StarterContent/Props/SM_MatPreviewMesh_02.
+[2022.06.07-21.22.31:239][589]DataValidation: There is no data validation for /Game/StarterContent/Props/SM_PillarFrame.
+[2022.06.07-21.22.31:241][589]DataValidation: There is no data validation for /Game/StarterContent/Props/SM_PillarFrame300.
+[2022.06.07-21.22.31:263][589]DataValidation: There is no data validation for /Game/StarterContent/Props/SM_Rock.
+[2022.06.07-21.22.31:285][589]DataValidation: There is no data validation for /Game/StarterContent/Props/SM_Shelf.
+[2022.06.07-21.22.31:293][589]DataValidation: There is no data validation for /Game/StarterContent/Props/SM_Stairs.
+[2022.06.07-21.22.31:295][589]DataValidation: There is no data validation for /Game/StarterContent/Props/SM_Statue.
+[2022.06.07-21.22.31:296][589]DataValidation: There is no data validation for /Game/StarterContent/Props/SM_TableRound.
+[2022.06.07-21.22.31:298][589]DataValidation: There is no data validation for /Game/StarterContent/Props/SM_WindowFrame.
+[2022.06.07-21.22.31:299][589]DataValidation: There is no data validation for /Game/StarterContent/Props/Materials/M_Bush.
+[2022.06.07-21.22.31:301][589]DataValidation: There is no data validation for /Game/StarterContent/Props/Materials/M_Chair.
+[2022.06.07-21.22.31:302][589]DataValidation: There is no data validation for /Game/StarterContent/Props/Materials/M_Door.
+[2022.06.07-21.22.31:304][589]DataValidation: There is no data validation for /Game/StarterContent/Props/Materials/M_Frame.
+[2022.06.07-21.22.31:305][589]DataValidation: There is no data validation for /Game/StarterContent/Props/Materials/M_Lamp.
+[2022.06.07-21.22.31:307][589]DataValidation: There is no data validation for /Game/StarterContent/Props/Materials/M_MaterialSphere.
+[2022.06.07-21.22.31:308][589]DataValidation: There is no data validation for /Game/StarterContent/Props/Materials/M_MaterialSphere_Plain.
+[2022.06.07-21.22.31:310][589]DataValidation: There is no data validation for /Game/StarterContent/Props/Materials/M_Rock.
+[2022.06.07-21.22.31:311][589]DataValidation: There is no data validation for /Game/StarterContent/Props/Materials/M_Shelf.
+[2022.06.07-21.22.31:312][589]DataValidation: There is no data validation for /Game/StarterContent/Props/Materials/M_Statue.
+[2022.06.07-21.22.31:314][589]DataValidation: There is no data validation for /Game/StarterContent/Props/Materials/M_StatueGlass.
+[2022.06.07-21.22.31:315][589]DataValidation: There is no data validation for /Game/StarterContent/Props/Materials/M_TableRound.
+[2022.06.07-21.22.31:321][589]DataValidation: There is no data validation for /Game/StarterContent/Shapes/Shape_Cone.
+[2022.06.07-21.22.31:323][589]DataValidation: There is no data validation for /Game/StarterContent/Shapes/Shape_Cube.
+[2022.06.07-21.22.31:328][589]DataValidation: There is no data validation for /Game/StarterContent/Shapes/Shape_Cylinder.
+[2022.06.07-21.22.31:334][589]DataValidation: There is no data validation for /Game/StarterContent/Shapes/Shape_NarrowCapsule.
+[2022.06.07-21.22.31:340][589]DataValidation: There is no data validation for /Game/StarterContent/Shapes/Shape_Pipe.
+[2022.06.07-21.22.31:349][589]DataValidation: There is no data validation for /Game/StarterContent/Shapes/Shape_Pipe_180.
+[2022.06.07-21.22.31:356][589]DataValidation: There is no data validation for /Game/StarterContent/Shapes/Shape_Pipe_90.
+[2022.06.07-21.22.31:362][589]DataValidation: There is no data validation for /Game/StarterContent/Shapes/Shape_Plane.
+[2022.06.07-21.22.31:364][589]DataValidation: There is no data validation for /Game/StarterContent/Shapes/Shape_Sphere.
+[2022.06.07-21.22.31:374][589]DataValidation: There is no data validation for /Game/StarterContent/Shapes/Shape_Torus.
+[2022.06.07-21.22.31:380][589]DataValidation: There is no data validation for /Game/StarterContent/Shapes/Shape_Trim.
+[2022.06.07-21.22.31:388][589]DataValidation: There is no data validation for /Game/StarterContent/Shapes/Shape_Trim_90_In.
+[2022.06.07-21.22.31:395][589]DataValidation: There is no data validation for /Game/StarterContent/Shapes/Shape_Trim_90_Out.
+[2022.06.07-21.22.31:401][589]DataValidation: There is no data validation for /Game/StarterContent/Shapes/Shape_TriPyramid.
+[2022.06.07-21.22.31:407][589]DataValidation: There is no data validation for /Game/StarterContent/Shapes/Shape_Tube.
+[2022.06.07-21.22.31:411][589]DataValidation: There is no data validation for /Game/StarterContent/Shapes/Shape_Wedge_A.
+[2022.06.07-21.22.31:416][589]DataValidation: There is no data validation for /Game/StarterContent/Shapes/Shape_Wedge_B.
+[2022.06.07-21.22.31:428][589]DataValidation: There is no data validation for /Game/StarterContent/Shapes/Shape_WideCapsule.
+[2022.06.07-21.22.31:429][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Brick_Clay_Beveled_D.
+[2022.06.07-21.22.31:431][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Brick_Clay_Beveled_M.
+[2022.06.07-21.22.31:432][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Brick_Clay_Beveled_N.
+[2022.06.07-21.22.31:434][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Brick_Clay_New_D.
+[2022.06.07-21.22.31:435][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Brick_Clay_New_M.
+[2022.06.07-21.22.31:437][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Brick_Clay_New_N.
+[2022.06.07-21.22.31:438][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Brick_Clay_Old_D.
+[2022.06.07-21.22.31:440][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Brick_Clay_Old_N.
+[2022.06.07-21.22.31:441][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Brick_Cut_Stone_D.
+[2022.06.07-21.22.31:443][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Brick_Cut_Stone_N.
+[2022.06.07-21.22.31:444][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Brick_Hewn_Stone_D.
+[2022.06.07-21.22.31:446][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Brick_Hewn_Stone_M.
+[2022.06.07-21.22.31:447][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Brick_Hewn_Stone_N.
+[2022.06.07-21.22.31:449][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Burst_M.
+[2022.06.07-21.22.31:450][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Bush_D.
+[2022.06.07-21.22.31:452][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Bush_N.
+[2022.06.07-21.22.31:453][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Ceramic_Tile_M.
+[2022.06.07-21.22.31:454][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Ceramic_Tile_N.
+[2022.06.07-21.22.31:456][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Chair_M.
+[2022.06.07-21.22.31:457][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Chair_N.
+[2022.06.07-21.22.31:458][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Checker_Noise_M.
+[2022.06.07-21.22.31:460][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_CobbleStone_Pebble_D.
+[2022.06.07-21.22.31:461][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_CobbleStone_Pebble_M.
+[2022.06.07-21.22.31:463][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_CobbleStone_Pebble_N.
+[2022.06.07-21.22.31:464][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_CobbleStone_Rough_D.
+[2022.06.07-21.22.31:466][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_CobbleStone_Rough_N.
+[2022.06.07-21.22.31:467][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_CobbleStone_Smooth_D.
+[2022.06.07-21.22.31:469][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_CobbleStone_Smooth_M.
+[2022.06.07-21.22.31:470][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_CobbleStone_Smooth_N.
+[2022.06.07-21.22.31:471][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Concrete_Grime_D.
+[2022.06.07-21.22.31:473][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Concrete_Panels_D.
+[2022.06.07-21.22.31:474][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Concrete_Panels_N.
+[2022.06.07-21.22.31:476][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Concrete_Poured_D.
+[2022.06.07-21.22.31:477][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Concrete_Poured_N.
+[2022.06.07-21.22.31:478][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Concrete_Tiles_D.
+[2022.06.07-21.22.31:480][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Concrete_Tiles_M.
+[2022.06.07-21.22.31:481][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Concrete_Tiles_N.
+[2022.06.07-21.22.31:483][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Concrete_Tiles_Variation_M.
+[2022.06.07-21.22.31:484][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Detail_Rocky_N.
+[2022.06.07-21.22.31:486][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Door_M.
+[2022.06.07-21.22.31:488][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Door_N.
+[2022.06.07-21.22.31:489][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Dust_Particle_D.
+[2022.06.07-21.22.31:491][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Explosion_SubUV.
+[2022.06.07-21.22.31:492][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Fire_SubUV.
+[2022.06.07-21.22.31:493][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Fire_Tiled_D.
+[2022.06.07-21.22.31:495][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Frame_M.
+[2022.06.07-21.22.31:496][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Frame_N.
+[2022.06.07-21.22.31:498][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Gradinet_01.
+[2022.06.07-21.22.31:500][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Ground_Grass_D.
+[2022.06.07-21.22.31:501][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Ground_Grass_N.
+[2022.06.07-21.22.31:503][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Ground_Gravel_D.
+[2022.06.07-21.22.31:504][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Ground_Gravel_N.
+[2022.06.07-21.22.31:506][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_ground_Moss_D.
+[2022.06.07-21.22.31:507][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Ground_Moss_N.
+[2022.06.07-21.22.31:508][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Lamp_M.
+[2022.06.07-21.22.31:510][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Lamp_N.
+[2022.06.07-21.22.31:511][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Metal_Rust_D.
+[2022.06.07-21.22.31:512][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Metal_Rust_N.
+[2022.06.07-21.22.31:514][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Metal_Steel_D.
+[2022.06.07-21.22.31:515][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Metal_Steel_N.
+[2022.06.07-21.22.31:517][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Perlin_Noise_M.
+[2022.06.07-21.22.31:518][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_RockMesh_M.
+[2022.06.07-21.22.31:520][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_RockMesh_N.
+[2022.06.07-21.22.31:521][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Rock_Basalt_D.
+[2022.06.07-21.22.31:523][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Rock_Basalt_N.
+[2022.06.07-21.22.31:524][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Rock_Marble_Polished_D.
+[2022.06.07-21.22.31:526][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Rock_Sandstone_D.
+[2022.06.07-21.22.31:527][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Rock_Sandstone_N.
+[2022.06.07-21.22.31:529][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Rock_Slate_D.
+[2022.06.07-21.22.31:530][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Rock_Slate_N.
+[2022.06.07-21.22.31:531][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Rock_Smooth_Granite_D.
+[2022.06.07-21.22.31:533][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Shelf_M.
+[2022.06.07-21.22.31:534][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Shelf_N.
+[2022.06.07-21.22.31:536][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Single_Tile_N.
+[2022.06.07-21.22.31:537][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Smoke_SubUV.
+[2022.06.07-21.22.31:538][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Smoke_Tiled_D.
+[2022.06.07-21.22.31:540][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Spark_Core.
+[2022.06.07-21.22.31:541][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Statue_M.
+[2022.06.07-21.22.31:543][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Statue_N.
+[2022.06.07-21.22.31:544][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_TableRound_M.
+[2022.06.07-21.22.31:545][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_TableRound_N.
+[2022.06.07-21.22.31:547][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Tech_Dot_M.
+[2022.06.07-21.22.31:548][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Tech_Dot_N.
+[2022.06.07-21.22.31:550][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Tech_Hex_Tile_M.
+[2022.06.07-21.22.31:551][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Tech_Hex_Tile_N.
+[2022.06.07-21.22.31:553][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Tech_Panel_M.
+[2022.06.07-21.22.31:554][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Tech_Panel_N.
+[2022.06.07-21.22.31:555][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Water_M.
+[2022.06.07-21.22.31:557][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Water_N.
+[2022.06.07-21.22.31:558][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Wood_Floor_Walnut_D.
+[2022.06.07-21.22.31:560][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Wood_Floor_Walnut_M.
+[2022.06.07-21.22.31:561][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Wood_Floor_Walnut_N.
+[2022.06.07-21.22.31:563][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Wood_Oak_D.
+[2022.06.07-21.22.31:564][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Wood_Oak_N.
+[2022.06.07-21.22.31:565][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Wood_Pine_D.
+[2022.06.07-21.22.31:567][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Wood_Pine_N.
+[2022.06.07-21.22.31:568][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Wood_Walnut_D.
+[2022.06.07-21.22.31:569][589]DataValidation: There is no data validation for /Game/StarterContent/Textures/T_Wood_Walnut_N.
+[2022.06.07-21.22.31:570][589]DataValidation: 
+[2022.06.07-21.22.34:376][756]LogSlate: Window 'Message Log' being destroyed
+[2022.06.07-21.22.34:381][756]LogSlate: Window 'Message Log' being destroyed
+[2022.06.07-21.22.49:910][650]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.615 s
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: === Handled ensure: ===
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: 
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 219]
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: Found circular redirect from /Game/NewFolder/Blueprints/Actor/NewFolder/Collectables/BPCrystal.BPCrystal to /Game/NewFolder/Blueprints/Actor/BPCrystal.BPCrystal! Returning None instead
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: Stack: 
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa491371f6 UE4Editor-Core.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa48e70c92 UE4Editor-Core.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa48e8b356 UE4Editor-Core.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa496e2ca4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa496a75ba UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa2334b879 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa2333cfbe UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa23305d0d UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa2334b3b7 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa1851042a UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa186ad37c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa186a85c1 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa186aba01 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa184db0ec UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa184db326 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa43d65059 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa43d6d660 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa43d41e2f UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa43e29c3b UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa43d6f375 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa43c194c5 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa43cb1db2 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa43c97c7a UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa43c8b25c UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa7ad1d1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa7ad10270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa7ad1f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa7ad0c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffab6f4e858 USER32.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffab6f4e299 USER32.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffa7ad20646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ff746d454e5 UE4Editor.exe!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ff746d55b3c UE4Editor.exe!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ff746d55bba UE4Editor.exe!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ff746d63dac UE4Editor.exe!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ff746d65aaa UE4Editor.exe!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffab51b7034 KERNEL32.DLL!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: [Callstack] 0x00007ffab71a2651 ntdll.dll!UnknownFunction []
+[2022.06.07-21.22.49:910][650]LogOutputDevice: Error: 
+[2022.06.07-21.22.49:916][650]LogStats:                SubmitErrorReport -  0.000 s
